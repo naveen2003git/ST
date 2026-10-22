@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+yt-dlp[default]>=2026.10.21
+yt-dlp-ejs>=0.8.0
+Pillow>=10.3.0
+rembg>=2.0.56
+onnxruntime>=1.17.0
+imageio-ffmpeg>=0.5.1
